@@ -15,7 +15,7 @@ const privateCors =
   cors({
 
     origin: [
-      "http://localhost:5173"
+      "https://shifraai-frontend-bgqa.onrender.com"
     ],
 
     credentials: true
